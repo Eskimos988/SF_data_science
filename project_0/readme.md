@@ -11,7 +11,7 @@
 ### Описание проекта    
 Угадать загаданное компьютером число за минимальное число попыток.
 
-:arrow_up:[к оглавлению](_)
+:arrow_up:[к оглавлению](https://github.com/Eskimos988/SF_data_science/blob/main/project_0/readme.md#Оглавление)
 
 
 ### Какой кейс решаем?    
@@ -31,22 +31,28 @@
 ### Краткая информация о данных
 ....
   
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Eskimos988/SF_data_science/blob/main/project_0/readme.md#Оглавление)
 
 
 ### Этапы работы над проектом  
-....
+0. Анализ исходных данных
+1. Написание и проверка функции поиска загаданного числа в любом из редакторов(Google Colab)
+2. Перенос и описание функции в VS Code
+3. Редактирование файлов readme.md и game.ipynb
+4. Синхронизация полученного материала с GitHub
+5. Итоговая проверка
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Eskimos988/SF_data_science/blob/main/project_0/readme.md#Оглавление)
 
 
 ### Результаты:  
-....
+По итогам практической работы исполнитель получил навыки оформления кода, работы с VS Code и GitHub/.
+Так же написанная студентом функция удовлетворяет требованиям и отгадывает загаданное число за 6 попыток
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Eskimos988/SF_data_science/blob/main/project_0/readme.md#Оглавление)
 
 
 ### Выводы:  
-....
+Студент стал на шаг ближе к цели...
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Eskimos988/SF_data_science/blob/main/project_0/readme.md#Оглавление)
